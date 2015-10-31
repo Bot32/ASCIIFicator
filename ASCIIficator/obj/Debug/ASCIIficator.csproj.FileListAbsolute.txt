@@ -1,0 +1,14 @@
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\MainWindow.g.cs
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\App.g.cs
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator_MarkupCompile.cache
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator_MarkupCompile.lref
+D:\Projects\ASCIIficator\ASCIIficator\bin\Debug\ASCIIficator.exe.config
+D:\Projects\ASCIIficator\ASCIIficator\bin\Debug\ASCIIficator.exe
+D:\Projects\ASCIIficator\ASCIIficator\bin\Debug\ASCIIficator.pdb
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\MainWindow.baml
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator.g.resources
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator.Properties.Resources.resources
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator.csproj.GenerateResource.Cache
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator.exe
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator.pdb
+D:\Projects\ASCIIficator\ASCIIficator\obj\Debug\ASCIIficator.csprojResolveAssemblyReference.cache
